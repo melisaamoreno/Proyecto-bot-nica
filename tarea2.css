@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main-conteiner{
+    background-color: gainsboro;
+    padding: 20px;
+    margin: 0 auto;
+    width: 800px;
+    height: 650px;
+    align-content: center;
+}
+.grilla{
+    display: flex;
+    padding: 30px; 
+    flex-wrap: wrap;
+    align-content: center;
+}
+.imagen{
+    background-color: whitesmoke;
+    padding: 5px;
+    margin: 15px;
+    width: 200px;
+    height: 200px;
+}
